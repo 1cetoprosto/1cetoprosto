@@ -27,10 +27,31 @@
 
 ### 👨‍💻 About Me :
 I am a iOS-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine 🇺🇦
-- :telescope: I’m working as a Software Engineer and contributing for building mobile applications for iOS.
+- 📱: I’m working as a Software Engineer and contributing for building mobile applications for iOS.
 
-- :seedling: In my spare time I travel by bike.
+- 🚴‍♂️: In my spare time I travel by bike.
 
-- :zap: Profess Christian values.
+- ✝️: Profess Christian values.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leokvit/)
+- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leokvit/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+</div>             
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1cetoprosto&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1cetoprosto&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
