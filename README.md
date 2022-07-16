@@ -20,13 +20,13 @@
 
 ### 👨‍💻 About Me :
 I am a iOS-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine 🇺🇦
-- 📱: I’m working as a Software Engineer and contributing for building mobile applications for iOS.
+- 📱 I’m working as a Software Engineer and contributing for building mobile applications for iOS.
 
-- 🚴‍♂️: In my spare time I travel by bike.
+- 🚴‍♂️ In my spare time I travel by bike.
 
-- ✝️: Profess Christian values.
+- ✝️ Profess Christian values.
 
-- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leokvit/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leokvit/)
 
 ---
 
@@ -43,6 +43,8 @@ I am a iOS-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1cetoprosto&theme=dark&background=000000)](https://git.io/streak-stats)
+<div id="stats" align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1cetoprosto&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1cetoprosto&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1cetoprosto&layout=compact&theme=vision-friendly-dark](https://github.com/anuraghazra/github-readme-stats)
+</div> 
